@@ -1,5 +1,3 @@
----
-
 # Backend API - Application de Gestion de Livres
 
 Ce projet est une API backend construite avec Node.js, Express, et MongoDB pour gérer des utilisateurs et leurs livres. L'application supporte l'inscription, l'authentification (JWT) et des opérations CRUD sur les livres.
